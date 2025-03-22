@@ -3,9 +3,9 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related Kalaschnibluse APIs "
+  message: "Welcome to EazyBank cards related prod APIs "
   contactDetails:
-    name: "Pampelmusensandra"
+    name: "Der letzte Zonk"
     email: "sandra@eazybank.com"
   onCallSupport:
     - (617) 432-2356
